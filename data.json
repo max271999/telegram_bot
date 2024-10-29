@@ -1,0 +1,69 @@
+{
+    "kanallar": [
+        "BytefyCompany"
+    ],
+    "info": [],
+    "nomzodlar": {
+        "Mangitobod": "Qurbonov Faxriddin",
+        "Xalqobod": "Quvvatov Zarifboy",
+        "Dehqonobod": "Yuldoshev Ravshan",
+        "Bunyodkor": "Abdullayev Sadullo",
+        "Sariqtepa": "Mamatqulov Komil",
+        "Gulobod": "Ahmedov Jasur",
+        "Quyi Tegana": "Xalilov Ilyos",
+        "Jozmon": "Yuldoshev Lutfullo",
+        "Kutarma": "Qosimov Rabbim"
+    },
+    "nomzodlartext": "Nomzdlarga ovoz bering",
+    "ega": "1803534444",
+    "adminlar": {
+        "1803534444": "Abduaziz271",
+        "1412501744": "ITCloudSEO"
+    },
+    "ovozlar": {
+        "1803534444": "Quvvatov Zarifboy",
+        "1926222110": "Qurbonov Faxriddin"
+    },
+    "users": {
+        "1803534444": {
+            "id": 1803534444,
+            "username": "Devopsabduaziz",
+            "premium": null
+        },
+        "1926222110": {
+            "id": 1926222110,
+            "username": "devopsumarov",
+            "premium": null
+        },
+        "5955950834": {
+            "id": 5955950834,
+            "username": "BytefyAdmin",
+            "premium": null
+        },
+        "6302015316": {
+            "id": 6302015316,
+            "username": "DevOps_ITCenter_admin",
+            "premium": null
+        },
+        "1412501744": {
+            "id": 1412501744,
+            "username": "ITCloudSEO",
+            "premium": null
+        },
+        "1612270615": {
+            "id": 1612270615,
+            "username": "Amirjon_Karimov",
+            "premium": null
+        },
+        "7263997003": {
+            "id": 7263997003,
+            "username": null,
+            "premium": null
+        },
+        "5575661241": {
+            "id": 5575661241,
+            "username": "hacktivist_07",
+            "premium": null
+        }
+    }
+}
